@@ -33,5 +33,6 @@ public class ClickEvent : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
         Debug.Log("Pointer Up");
         Debug.Log("Clicked on: " + gameObject.name);
         Debug.Log("Current Score: " + StateManager.Instance.Score);
+        Destroy(gameObject);
     }
 }
