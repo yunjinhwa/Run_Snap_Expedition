@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\jinhwan\\3D_GameProgramming\\Run_Snap_Expedition\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\jinhwan\\3d_gameprogramming\\run_snap_expedition\\assets\\script\\charactorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\charactorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\jinhwan\\3d_gameprogramming\\run_snap_expedition\\assets\\script\\swipeinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\swipeinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\jinhwan\\3d_gameprogramming\\run_snap_expedition\\assets\\script\\charactoranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\charactoranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\jinhwan\\3d_gameprogramming\\run_snap_expedition\\assets\\generic cute 2d\\student\\001 student 1\\demo\\scripts\\swapanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\generic cute 2d\\student\\001 student 1\\demo\\scripts\\swapanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|e:\\jinhwan\\3d_gameprogramming\\run_snap_expedition\\assets\\script\\universaltimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\universaltimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CharactorController.cs",
+              "DocumentMoniker": "E:\\jinhwan\\3D_GameProgramming\\Run_Snap_Expedition\\Assets\\Script\\CharactorController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CharactorController.cs",
+              "ToolTip": "E:\\jinhwan\\3D_GameProgramming\\Run_Snap_Expedition\\Assets\\Script\\CharactorController.cs",
+              "RelativeToolTip": "Assets\\Script\\CharactorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:59:06.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SwipeInput.cs",
+              "DocumentMoniker": "E:\\jinhwan\\3D_GameProgramming\\Run_Snap_Expedition\\Assets\\Script\\SwipeInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SwipeInput.cs",
+              "ToolTip": "E:\\jinhwan\\3D_GameProgramming\\Run_Snap_Expedition\\Assets\\Script\\SwipeInput.cs",
+              "RelativeToolTip": "Assets\\Script\\SwipeInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T10:58:31.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CharactorAnimation.cs",
+              "DocumentMoniker": "E:\\jinhwan\\3D_GameProgramming\\Run_Snap_Expedition\\Assets\\Script\\CharactorAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CharactorAnimation.cs",
+              "ToolTip": "E:\\jinhwan\\3D_GameProgramming\\Run_Snap_Expedition\\Assets\\Script\\CharactorAnimation.cs",
+              "RelativeToolTip": "Assets\\Script\\CharactorAnimation.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T05:37:29.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UniversalTimer.cs",
+              "DocumentMoniker": "E:\\jinhwan\\3D_GameProgramming\\Run_Snap_Expedition\\Assets\\Script\\UniversalTimer.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\UniversalTimer.cs",
+              "ToolTip": "E:\\jinhwan\\3D_GameProgramming\\Run_Snap_Expedition\\Assets\\Script\\UniversalTimer.cs",
+              "RelativeToolTip": "Assets\\Script\\UniversalTimer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T05:31:39.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SwapAnimation.cs",
+              "DocumentMoniker": "E:\\jinhwan\\3D_GameProgramming\\Run_Snap_Expedition\\Assets\\Generic Cute 2D\\Student\\001 Student 1\\Demo\\Scripts\\SwapAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Generic Cute 2D\\Student\\001 Student 1\\Demo\\Scripts\\SwapAnimation.cs",
+              "ToolTip": "E:\\jinhwan\\3D_GameProgramming\\Run_Snap_Expedition\\Assets\\Generic Cute 2D\\Student\\001 Student 1\\Demo\\Scripts\\SwapAnimation.cs",
+              "RelativeToolTip": "Assets\\Generic Cute 2D\\Student\\001 Student 1\\Demo\\Scripts\\SwapAnimation.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T05:16:06.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

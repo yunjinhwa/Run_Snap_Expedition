@@ -288,7 +288,7 @@ AnimatorState:
   m_TimeParameter: 
 --- !u!1107 &-2378569982109203206
 AnimatorStateMachine:
-  serializedVersion: 6
+  serializedVersion: 7
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -300,16 +300,16 @@ AnimatorStateMachine:
     m_Position: {x: 275.82922, y: 164.42853, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -556827062443460275}
-    m_Position: {x: 280, y: 220, z: 0}
+    m_Position: {x: 540, y: 130, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -8016232362433078166}
-    m_Position: {x: 290, y: 230, z: 0}
+    m_Position: {x: 120, y: 320, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 1929888973883233960}
-    m_Position: {x: 300, y: 240, z: 0}
+    m_Position: {x: 550, y: 200, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -5000771011459654305}
-    m_Position: {x: 310, y: 250, z: 0}
+    m_Position: {x: 130, y: 240, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -2300124548578818971}
     m_Position: {x: 320, y: 260, z: 0}
@@ -488,7 +488,7 @@ AnimatorController:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Basic
-  serializedVersion: 5
+  serializedVersion: 6
   m_AnimatorParameters: []
   m_AnimatorLayers:
   - serializedVersion: 5
@@ -503,6 +503,7 @@ AnimatorController:
     m_IKPass: 0
     m_SyncedLayerAffectsTiming: 0
     m_Controller: {fileID: 9100000}
+  m_EvaluateTransitionsOnStart: 0
 --- !u!1102 &1929888973883233960
 AnimatorState:
   serializedVersion: 6
