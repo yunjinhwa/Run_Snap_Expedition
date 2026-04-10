@@ -7,4 +7,10 @@ public class ButtonScript : MonoBehaviour
     {
         SceneManager.LoadScene("Stage1Scene");
     }
+
+    public void OnTitleButtonClicked()
+    {
+        GameObject.Find("GameManager").GetComponent<GameManager>().LoadTitleScene();
+        SceneManager.LoadScene("TitleScene");
+    }
 }

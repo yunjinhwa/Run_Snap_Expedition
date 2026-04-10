@@ -4,6 +4,9 @@ using UnityEngine;
 public class CharactorAnimation : MonoBehaviour
 {
     [SerializeField] private Animator animator;
+    [SerializeField] private float jumpUpDuration = 0.35f;
+    [SerializeField] private float jumpFallDuration = 0.35f;
+    [SerializeField] private float slideDuration = 1f;
 
     private Coroutine currentRoutine;
 
@@ -30,10 +33,10 @@ public class CharactorAnimation : MonoBehaviour
     private IEnumerator JumpRoutine()
     {
         animator.Play("Jump_Up");
-        yield return new WaitForSeconds(1f);
+        yield return new WaitForSeconds(jumpUpDuration);
 
         animator.Play("Jump_Fall");
-        yield return new WaitForSeconds(1f);
+        yield return new WaitForSeconds(jumpFallDuration);
 
         animator.Play("Run");
         currentRoutine = null;
@@ -42,7 +45,7 @@ public class CharactorAnimation : MonoBehaviour
     private IEnumerator SlideRoutine()
     {
         animator.Play("Slide");
-        yield return new WaitForSeconds(1f);
+        yield return new WaitForSeconds(slideDuration);
 
         animator.Play("Run");
         currentRoutine = null;

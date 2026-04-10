@@ -3,11 +3,18 @@ using UnityEngine;
 public class SwipeInput : MonoBehaviour
 {
     [SerializeField] private float minSwipeDistance = 100f;
+    [SerializeField] private float maxTapMovement = 20f;
     [SerializeField] private CharactorController characterController;
 
     private Vector2 touchStartPos;
     private Vector2 touchEndPos;
     private bool isSwiping = false;
+
+    private void Awake()
+    {
+        if (characterController == null)
+            characterController = FindObjectOfType<CharactorController>();
+    }
 
     private void Update()
     {
@@ -66,13 +73,26 @@ public class SwipeInput : MonoBehaviour
     private void CheckSwipe()
     {
         Vector2 delta = touchEndPos - touchStartPos;
+        float distance = delta.magnitude;
 
-        if (delta.magnitude < minSwipeDistance)
+        // 아주 조금 움직인 건 클릭으로 보고 무시
+        if (distance <= maxTapMovement)
             return;
 
-        if (Mathf.Abs(delta.y) > Mathf.Abs(delta.x) && delta.y > 0)
+        // 이 정도 이상 움직여야 스와이프
+        if (distance < minSwipeDistance)
+            return;
+
+        if (Mathf.Abs(delta.y) > Mathf.Abs(delta.x))
         {
-            characterController.Jump();
+            if (delta.y > 0)
+            {
+                characterController.Jump();
+            }
+            else
+            {
+                characterController.Slide();
+            }
         }
     }
 }

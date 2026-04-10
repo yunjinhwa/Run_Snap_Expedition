@@ -1,21 +1,11 @@
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-public class ClickEvent : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
+public class ClickEvent : MonoBehaviour, IPointerClickHandler
 {
-    public void OnPointerDown(PointerEventData eventData)
+    public void OnPointerClick(PointerEventData eventData)
     {
-        Debug.Log("Pointer Down");
-    }
-
-    public void OnPointerUp(PointerEventData eventData)
-    {
-        if (eventData.pointerEnter != gameObject)
-        {
-            return;
-        }
-        
-        switch(gameObject.tag)
+        switch (gameObject.tag)
         {
             case "stage1":
                 StateManager.Instance.AddScore(100);
@@ -30,7 +20,7 @@ public class ClickEvent : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
                 StateManager.Instance.AddScore(500);
                 break;
         }
-        Debug.Log("Pointer Up");
+
         Debug.Log("Clicked on: " + gameObject.name);
         Debug.Log("Current Score: " + StateManager.Instance.Score);
         Destroy(gameObject);

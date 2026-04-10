@@ -3,16 +3,52 @@
   "WorkspaceRootPath": "C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E51CE2F-2E46-175C-A841-787E15FEA15B}|Assembly-CSharp.csproj|c:\\3d\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\run!_snap_expedition\\assets\\script\\clickevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E51CE2F-2E46-175C-A841-787E15FEA15B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\clickevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9E51CE2F-2E46-175C-A841-787E15FEA15B}|Assembly-CSharp.csproj|C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\assets\\script\\statemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E51CE2F-2E46-175C-A841-787E15FEA15B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\statemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9E51CE2F-2E46-175C-A841-787E15FEA15B}|Assembly-CSharp.csproj|c:\\3d\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\run!_snap_expedition\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E51CE2F-2E46-175C-A841-787E15FEA15B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E51CE2F-2E46-175C-A841-787E15FEA15B}|Assembly-CSharp.csproj|C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\assets\\script\\swipeinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E51CE2F-2E46-175C-A841-787E15FEA15B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\swipeinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9E51CE2F-2E46-175C-A841-787E15FEA15B}|Assembly-CSharp.csproj|C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\assets\\script\\buttonevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E51CE2F-2E46-175C-A841-787E15FEA15B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\buttonevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E51CE2F-2E46-175C-A841-787E15FEA15B}|Assembly-CSharp.csproj|c:\\3d\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\run!_snap_expedition\\assets\\script\\resultuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E51CE2F-2E46-175C-A841-787E15FEA15B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\resultuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E51CE2F-2E46-175C-A841-787E15FEA15B}|Assembly-CSharp.csproj|C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\assets\\script\\charactorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E51CE2F-2E46-175C-A841-787E15FEA15B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\charactorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E51CE2F-2E46-175C-A841-787E15FEA15B}|Assembly-CSharp.csproj|C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\assets\\script\\gameuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E51CE2F-2E46-175C-A841-787E15FEA15B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gameuicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E51CE2F-2E46-175C-A841-787E15FEA15B}|Assembly-CSharp.csproj|C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\assets\\script\\backgroundloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E51CE2F-2E46-175C-A841-787E15FEA15B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\backgroundloop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E51CE2F-2E46-175C-A841-787E15FEA15B}|Assembly-CSharp.csproj|C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\assets\\script\\randomspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E51CE2F-2E46-175C-A841-787E15FEA15B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\randomspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E51CE2F-2E46-175C-A841-787E15FEA15B}|Assembly-CSharp.csproj|C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\assets\\script\\clickevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E51CE2F-2E46-175C-A841-787E15FEA15B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\clickevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E51CE2F-2E46-175C-A841-787E15FEA15B}|Assembly-CSharp.csproj|C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\assets\\script\\moveleft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E51CE2F-2E46-175C-A841-787E15FEA15B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\moveleft.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E51CE2F-2E46-175C-A841-787E15FEA15B}|Assembly-CSharp.csproj|C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\assets\\script\\charactoranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E51CE2F-2E46-175C-A841-787E15FEA15B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\charactoranimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,40 +70,152 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "ResultUIController.cs",
+              "DocumentMoniker": "C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\Assets\\Script\\ResultUIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ResultUIController.cs",
+              "ToolTip": "C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\Assets\\Script\\ResultUIController.cs",
+              "RelativeToolTip": "Assets\\Script\\ResultUIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T02:42:49.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\Assets\\Script\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameManager.cs",
+              "ToolTip": "C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\Assets\\Script\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Script\\GameManager.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAYwJkAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T01:33:12.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RandomSpawner.cs",
+              "DocumentMoniker": "C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\Assets\\Script\\RandomSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\RandomSpawner.cs",
+              "ToolTip": "C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\Assets\\Script\\RandomSpawner.cs",
+              "RelativeToolTip": "Assets\\Script\\RandomSpawner.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAkwFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T00:37:55.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BackgroundLoop.cs",
+              "DocumentMoniker": "C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\Assets\\Script\\BackgroundLoop.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BackgroundLoop.cs",
+              "ToolTip": "C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\Assets\\Script\\BackgroundLoop.cs",
+              "RelativeToolTip": "Assets\\Script\\BackgroundLoop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T00:33:52.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CharactorController.cs",
+              "DocumentMoniker": "C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\Assets\\Script\\CharactorController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CharactorController.cs",
+              "ToolTip": "C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\Assets\\Script\\CharactorController.cs",
+              "RelativeToolTip": "Assets\\Script\\CharactorController.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAIwIwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T00:09:16.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SwipeInput.cs",
+              "DocumentMoniker": "C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\Assets\\Script\\SwipeInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\SwipeInput.cs",
+              "ToolTip": "C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\Assets\\Script\\SwipeInput.cs",
+              "RelativeToolTip": "Assets\\Script\\SwipeInput.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T00:06:48.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CharactorAnimation.cs",
+              "DocumentMoniker": "C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\Assets\\Script\\CharactorAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CharactorAnimation.cs",
+              "ToolTip": "C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\Assets\\Script\\CharactorAnimation.cs",
+              "RelativeToolTip": "Assets\\Script\\CharactorAnimation.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T00:06:39.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ClickEvent.cs",
               "DocumentMoniker": "C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\Assets\\Script\\ClickEvent.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\ClickEvent.cs",
               "ToolTip": "C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\Assets\\Script\\ClickEvent.cs",
               "RelativeToolTip": "Assets\\Script\\ClickEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvx8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T19:14:25.404Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-08T19:14:25.404Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ButtonEvent.cs",
               "DocumentMoniker": "C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\Assets\\Script\\ButtonEvent.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\ButtonEvent.cs",
               "ToolTip": "C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\Assets\\Script\\ButtonEvent.cs",
               "RelativeToolTip": "Assets\\Script\\ButtonEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwMAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T19:13:47.189Z"
+              "WhenOpened": "2026-04-08T19:13:47.189Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "StateManager.cs",
               "DocumentMoniker": "C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\Assets\\Script\\StateManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\StateManager.cs",
               "ToolTip": "C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\Assets\\Script\\StateManager.cs",
               "RelativeToolTip": "Assets\\Script\\StateManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBMAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-08T07:22:44.051Z"
+              "WhenOpened": "2026-04-08T07:22:44.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameUIController.cs",
+              "DocumentMoniker": "C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\Assets\\Script\\GameUIController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameUIController.cs",
+              "ToolTip": "C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\Assets\\Script\\GameUIController.cs",
+              "RelativeToolTip": "Assets\\Script\\GameUIController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T01:30:41.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MoveLeft.cs",
+              "DocumentMoniker": "C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\Assets\\Script\\MoveLeft.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MoveLeft.cs",
+              "ToolTip": "C:\\3D\uAC8C\uC784\uD504\uB85C\uADF8\uB798\uBC0D\\Run!_Snap_Expedition\\Assets\\Script\\MoveLeft.cs",
+              "RelativeToolTip": "Assets\\Script\\MoveLeft.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T00:39:59.506Z"
             }
           ]
         }
